@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1937491668	Play_Ricky			\Default Work Unit\Play_Ricky	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	348824520	Rick_Astley_-_Never_Gonna_Give_You_Up_Official_Music_Video-dQw4w9WgXcQ	D:\GGJ20\GGJ2020\GGJ2020_WwiseProject\.cache\Windows\SFX\Rick_Astley_-_Never_Gonna_Give_You_Up_Official_Music_Video-dQw4w9WgXcQ_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ricky\Rick_Astley_-_Never_Gonna_Give_You_Up_Official_Music_Video-dQw4w9WgXcQ		40721552
+
