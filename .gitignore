@@ -75,3 +75,12 @@ Plugins/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Wwise
+/Repair/Repair_WwiseProject/Originals
+/Repair/Plugins/Wwise
+/Repair/Repair_WwiseProject/.validationcache
+/Repair/Repair_WwiseProject/.cache/
+/Repair/Repair_WwiseProject/.akd
+/Repair/Repair_WwiseProject/.prof
+Repair/Repair_WwiseProject/Repair_WwiseProject.Djohn.validationcache
