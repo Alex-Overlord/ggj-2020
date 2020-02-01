@@ -10,12 +10,8 @@ public class Player : MonoBehaviour {
     }
 
     void Update() {
-        //move
-    }
-
-    void movePlayer() {
-        if (Input.GetKeyDown(KeyCode.Z)) {
-
-        }
+        moveDir.x = Input.GetAxisRaw("Horizontal");
+        moveDir = transform.TransformDirection(moveDir);
+        
     }
 }
