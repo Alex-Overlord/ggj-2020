@@ -1,4 +1,4 @@
-﻿Log file open, 02/01/20 16:12:04
+﻿Log file open, 02/01/20 16:11:20
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -9,7 +9,7 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: Repair
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.066519
+LogStats: Stats thread started at 0.068318
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -103,22 +103,6 @@ LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin Wwise
 LogInit: Warning: Incompatible or missing module: AkAudio
 LogInit: Warning: Incompatible or missing module: AudiokineticTools
-Running C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe UE4Editor Development Win64 -Progress -NoHotReloadFromIDE
-@progress push 5%
-Parsing headers for UE4Editor
-  Running UnrealHeaderTool UE4Editor "C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-Reflection code generated for UE4Editor in 7,0336858 seconds
-@progress pop
-Building UE4Editor...
-Using Visual Studio 2019 14.24.28315 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-Building 1 action with 8 processes...
-  @progress 'Compiling C++ source code...' 0%
-  @progress 'Compiling C++ source code...' 100%
-  [1/1] UE4Editor.target
-Total time in Parallel executor: 0,17 seconds
-Total execution time: 7,75 seconds
-LogInit: Warning: Still incompatible or missing module: AkAudio
-LogInit: Warning: Still incompatible or missing module: AudiokineticTools
 LogCore: Engine exit requested (reason: EngineExit() was called)
 LogExit: Preparing to exit.
 LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
@@ -145,4 +129,4 @@ LogModuleManager: Shutting down and abandoning module SandboxFile (6)
 LogModuleManager: Shutting down and abandoning module PakFile (4)
 LogModuleManager: Shutting down and abandoning module RSA (3)
 LogExit: Exiting.
-Log file closed, 02/01/20 16:12:16
+Log file closed, 02/01/20 16:11:22
